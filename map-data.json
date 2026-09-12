@@ -1,0 +1,459 @@
+[
+  {
+    "id": "focus",
+    "title": "Choose your priorities",
+    "sub": "Make room for what matters.",
+    "kind": "daily",
+    "pages": [
+      1,
+      2,
+      4
+    ],
+    "summary": "Start with 1–3 priorities and choose the single highest-impact action right now.",
+    "points": [
+      "Decide when you will work on each priority and for how long.",
+      "Define success, what is practical, and your next checkpoint.",
+      "Trust God and take action."
+    ],
+    "prompt": "What is the one action that would make today meaningful?",
+    "step": 1
+  },
+  {
+    "id": "micro",
+    "title": "Define the next 5 minutes",
+    "sub": "Small enough to start now.",
+    "kind": "daily",
+    "pages": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "summary": "Turn priority #1 into a concrete five-minute move. Set the latest time you will take it today.",
+    "points": [
+      "Never leave the site of action without the next five-minute step defined.",
+      "Choose baby steps over an oversized lunge toward the finish.",
+      "Before finishing, define the next move."
+    ],
+    "prompt": "My next five-minute action is… I will begin by…",
+    "step": 2
+  },
+  {
+    "id": "energy",
+    "title": "Bring the energy",
+    "sub": "You supply the spark.",
+    "kind": "daily",
+    "pages": [
+      3,
+      4,
+      5
+    ],
+    "summary": "Bring energy to the task instead of expecting the task to supply it. Make the work lighter and more enjoyable.",
+    "points": [
+      "Use visual feedback to cut through the story you tell yourself.",
+      "Measure reps, not vibes.",
+      "Let go of the last action and put yourself fully into the next."
+    ],
+    "prompt": "How can I make this action easier, lighter, or more fun?",
+    "step": 3
+  },
+  {
+    "id": "test",
+    "title": "Act & test in reality",
+    "sub": "Launch. Notice. Adjust.",
+    "kind": "daily",
+    "pages": [
+      3,
+      4,
+      5
+    ],
+    "summary": "Put the action into the world and let real results guide the next repetition.",
+    "points": [
+      "Launch more. Perfect less. Track what works. Iterate fast.",
+      "If it is not landing, slow down until it does, then increase the flow.",
+      "Count reps and visible outcomes; notes alone are not the result."
+    ],
+    "prompt": "What did I try, and what actually happened?",
+    "step": 4
+  },
+  {
+    "id": "gold",
+    "title": "Extract today’s gold",
+    "sub": "Notice the return on the day.",
+    "kind": "daily",
+    "pages": [
+      4,
+      5
+    ],
+    "summary": "Look for the value and learning you can extract from today.",
+    "points": [
+      "What gold can I extract from today?",
+      "How can I make today a masterpiece?",
+      "What will help me see more improvement tomorrow?"
+    ],
+    "prompt": "The most valuable thing I learned or created today was…",
+    "step": 5
+  },
+  {
+    "id": "review",
+    "title": "Review & go again",
+    "sub": "Let feedback shape tomorrow.",
+    "kind": "daily",
+    "pages": [
+      5,
+      6
+    ],
+    "summary": "Review your reps and use what happened to choose tomorrow’s next move.",
+    "points": [
+      "What reps did I complete? What worked?",
+      "What will I change tomorrow? What feedback can I use?",
+      "What am I paying attention to, and why?",
+      "Reset and go again. Momentum is a choice."
+    ],
+    "prompt": "Keep… Change… My next move is…",
+    "step": 6
+  },
+  {
+    "id": "identity",
+    "title": "Identity & habits",
+    "sub": "Set the way you show up.",
+    "kind": "support",
+    "pages": [
+      5
+    ],
+    "summary": "Arrived. Serve. Give. Creative. Consistent. Minimalist. Focused.",
+    "points": [
+      "Before acting, ask: What is my intent?",
+      "Raise the floor with non-negotiable daily reps.",
+      "Before finishing, set the next five-minute move.",
+      "Make tasks easier, lighter, and more fun."
+    ],
+    "prompt": "What daily rep would express the person I want to be?"
+  },
+  {
+    "id": "filters",
+    "title": "Decision filters",
+    "sub": "Use when you’re stuck.",
+    "kind": "support",
+    "pages": [
+      5
+    ],
+    "summary": "Check the decision against time, leverage, compounding, judgment, and incentives.",
+    "points": [
+      "Is this worth the time and mental hassle?",
+      "Where is the leverage?",
+      "Am I optimizing for long-term compounding or short-term gain?",
+      "Am I acting from emotion or clear judgment?",
+      "What incentives are driving this behavior?"
+    ],
+    "prompt": "Which filter changes how I see this decision?"
+  },
+  {
+    "id": "drag",
+    "title": "Anti-drag toolkit",
+    "sub": "Remove one obstacle.",
+    "kind": "support",
+    "pages": [
+      5
+    ],
+    "summary": "Reduce friction by removing or automating one source of drag today.",
+    "points": [
+      "What is the easiest way to get this done?",
+      "What am I overcomplicating?",
+      "Turn boredom into iteration time.",
+      "Gamify with rivals, small challenges, or personal records."
+    ],
+    "prompt": "One friction point I can remove today is…"
+  },
+  {
+    "id": "health",
+    "title": "Health first",
+    "sub": "Guard the basics.",
+    "kind": "support",
+    "pages": [
+      5
+    ],
+    "summary": "The PDF places sleep, sunlight, hydration, eye breaks, and movement beneath the daily work.",
+    "points": [
+      "Protect your sleep window.",
+      "Make room for sunlight and hydration.",
+      "The document’s eye-break cue: every 20 minutes, look 20 feet away for 20 seconds, then move."
+    ],
+    "prompt": "Which basic needs attention before my next work block?"
+  },
+  {
+    "id": "intercept",
+    "title": "Smoking intercept",
+    "sub": "Pause → choose a small move.",
+    "kind": "support",
+    "pages": [
+      5,
+      6
+    ],
+    "summary": "The PDF includes a reflection sequence for a smoking urge, with a personal timing cue of around five hours in.",
+    "points": [
+      "Why do I want this? What is my intent with this hit?",
+      "What can I control right now? Choose a five-minute move.",
+      "Visualize the rep streak you are protecting."
+    ],
+    "prompt": "What can I control in the next five minutes?"
+  },
+  {
+    "id": "future",
+    "title": "Future Benefit Extraction",
+    "sub": "Charge actions with future rewards.",
+    "kind": "framework",
+    "pages": [
+      2
+    ],
+    "summary": "Charge actions with future rewards.",
+    "points": [
+      "Connect the action to the future benefit it creates."
+    ],
+    "prompt": "What future reward makes this action worth doing?",
+    "number": 1
+  },
+  {
+    "id": "energy-fw",
+    "title": "Energy-Led Action",
+    "sub": "You supply the energy.",
+    "kind": "framework",
+    "pages": [
+      3,
+      4
+    ],
+    "summary": "You supply the energy.",
+    "points": [
+      "Bring energy into the task.",
+      "Make enjoyment part of the action."
+    ],
+    "prompt": "What energy will I bring to this rep?",
+    "number": 2
+  },
+  {
+    "id": "visual",
+    "title": "Visual Feedback Loop",
+    "sub": "See truth, not story.",
+    "kind": "framework",
+    "pages": [
+      3,
+      4
+    ],
+    "summary": "See truth, not story.",
+    "points": [
+      "Use visible feedback.",
+      "Measure reps rather than your mood."
+    ],
+    "prompt": "What visible evidence will show what is working?",
+    "number": 3
+  },
+  {
+    "id": "consistency",
+    "title": "Consistency > Intensity",
+    "sub": "Count reps and ticks.",
+    "kind": "framework",
+    "pages": [
+      3,
+      4,
+      5
+    ],
+    "summary": "Count reps and ticks.",
+    "points": [
+      "Keep doing reps.",
+      "Define a non-negotiable daily floor."
+    ],
+    "prompt": "What is the smallest repeatable rep I can sustain?",
+    "number": 4
+  },
+  {
+    "id": "micro-fw",
+    "title": "Micro-Move Protocol",
+    "sub": "Always define the next 5 minutes.",
+    "kind": "framework",
+    "pages": [
+      3,
+      4
+    ],
+    "summary": "Always define the next 5 minutes.",
+    "points": [
+      "Define the next five-minute step before leaving the action.",
+      "Set the latest time you will take it today."
+    ],
+    "prompt": "What is my next five-minute move?",
+    "number": 5
+  },
+  {
+    "id": "roi",
+    "title": "ROI Mindset",
+    "sub": "Return on time, effort, attention.",
+    "kind": "framework",
+    "pages": [
+      3,
+      5
+    ],
+    "summary": "Return on time, effort, attention.",
+    "points": [
+      "Look for the highest return on time, effort, and attention.",
+      "Use leverage and long-term compounding as filters."
+    ],
+    "prompt": "Is the return worth the effort and mental hassle?",
+    "number": 6
+  },
+  {
+    "id": "minimal",
+    "title": "Minimalist OS",
+    "sub": "A few pillars. One world-class skill.",
+    "kind": "framework",
+    "pages": [
+      3
+    ],
+    "summary": "A few pillars. One world-class skill.",
+    "points": [
+      "Build around a few pillars.",
+      "Be world-class at one."
+    ],
+    "prompt": "What deserves focus, and what can I simplify?",
+    "number": 7
+  },
+  {
+    "id": "fun",
+    "title": "Fun-Max",
+    "sub": "Engineer enjoyment.",
+    "kind": "framework",
+    "pages": [
+      3,
+      5,
+      6
+    ],
+    "summary": "Engineer enjoyment.",
+    "points": [
+      "Make the work energy-enhancing.",
+      "Use small challenges and personal records.",
+      "Ask how the next checkpoint can be more fun."
+    ],
+    "prompt": "What would make this rep enjoyable?",
+    "number": 8
+  },
+  {
+    "id": "pressure",
+    "title": "Pressure Testing",
+    "sub": "Launch, test, iterate in reality.",
+    "kind": "framework",
+    "pages": [
+      3,
+      5
+    ],
+    "summary": "Launch, test, iterate in reality.",
+    "points": [
+      "Launch more and perfect less.",
+      "Track what works and iterate fast."
+    ],
+    "prompt": "What can I put into the real world to get feedback?",
+    "number": 9
+  },
+  {
+    "id": "questions-focus",
+    "title": "Focus & leverage",
+    "sub": "Choose what deserves your attention.",
+    "kind": "question",
+    "pages": [
+      1,
+      2
+    ],
+    "summary": "Questions collected from the PDF’s success prompts and personal guidelines.",
+    "points": [
+      "Am I working on what actually matters?",
+      "What does success look like? What is practical?",
+      "What is the metric? What is the needle mover? What is the target ROI?",
+      "What is my intention? What do I want to get out of this?",
+      "What do I have? What do I want? What am I doing?",
+      "What three levers can I move to create my future vision?",
+      "What can I do that will promote deep work?"
+    ],
+    "prompt": "The question I need most today is…"
+  },
+  {
+    "id": "questions-agency",
+    "title": "Agency & perspective",
+    "sub": "Find a different way into the problem.",
+    "kind": "question",
+    "pages": [
+      1,
+      2
+    ],
+    "summary": "Use a change of perspective to find practical options.",
+    "points": [
+      "What are they seeing that I’m not?",
+      "What CAN we do?",
+      "What would I do if I had 10× more agency? What if I had 10× less time?",
+      "What would the best person in my industry do?",
+      "What are my problems? How can I find solutions?",
+      "What would this look like if it were easy?",
+      "What small win can I rack up today to keep momentum?"
+    ],
+    "prompt": "If I had more agency, the next move I would choose is…"
+  },
+  {
+    "id": "questions-joy",
+    "title": "Joy & connection",
+    "sub": "Let the day mean something.",
+    "kind": "question",
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "summary": "The source pairs productive action with love, enjoyment, kindness, and social growth.",
+    "points": [
+      "What might tickle me so much today that I feel nostalgia when looking back?",
+      "What might love require from me today?",
+      "What feels unbearable? How can I make it 5% better?",
+      "I feel good — how much better can I feel?",
+      "Am I investing in my social skills?",
+      "Be kind, bring joy, repeat."
+    ],
+    "prompt": "One way I can bring joy or care into today is…"
+  },
+  {
+    "id": "questions-reps",
+    "title": "Reps & skill building",
+    "sub": "Know the game you are practicing.",
+    "kind": "question",
+    "pages": [
+      2,
+      3,
+      4
+    ],
+    "summary": "The document uses cards, games, and experience points as metaphors for deliberate practice.",
+    "points": [
+      "What cards am I playing? What skill am I training? What XP am I gaining?",
+      "How much focus will I give these reps, and when should I return to them?",
+      "Is the juice worth the effort?",
+      "When should I pause, analyze, and adjust toward higher-leverage practice?",
+      "Try saying “What do I think about this?” out loud to begin forming a view."
+    ],
+    "prompt": "The skill I am practicing with this action is…"
+  },
+  {
+    "id": "archive",
+    "title": "Archive & personal examples",
+    "sub": "Context from the original notes.",
+    "kind": "question",
+    "pages": [
+      2,
+      4,
+      6
+    ],
+    "summary": "These are personal examples and archived cues in the source, not new assignments or current facts.",
+    "points": [
+      "Job-search example: success is a job that fits; a practical route is working where a friend does.",
+      "Focus setup examples: “Land work” and an “HEB” checkpoint.",
+      "Habit check-in topics: posture, comedy, and podcasting / communication.",
+      "Think through the next checkpoint; ask how to make it more fun.",
+      "Clarify intent before itinerary; choose flexibility and editing mode consciously.",
+      "Content sorting: worth posting? If not, worth saving? If saving, where, when will it be used, and how will it be found?",
+      "Archived cues include sustained content creation, focused practice, social energy, and “DBU” (down, back, up)."
+    ],
+    "prompt": "Which old cue is still useful, and which can I leave behind?"
+  }
+]
